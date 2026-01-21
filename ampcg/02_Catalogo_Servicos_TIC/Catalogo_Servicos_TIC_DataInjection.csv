@@ -1,0 +1,255 @@
+Nome Completo
+ACESSOS
+ACESSOS > CÂMERA
+ACESSOS > CÂMERA > Configuração de Câmera
+ACESSOS > CÂMERA > Falha em Câmera
+ACESSOS > CÂMERA > Instalação de Câmera
+ACESSOS > CÂMERA > Realocação de Câmera
+ACESSOS > CÂMERA > Substituição de Câmera
+ACESSOS > CATRACA
+ACESSOS > CATRACA > Configuração de Catraca
+ACESSOS > CATRACA > Falha em Catraca
+ACESSOS > CATRACA > Instalação de Catraca
+ACESSOS > CATRACA > Realocação de Catraca
+ACESSOS > CATRACA > Substituição de Catraca
+ACESSOS > DVR/NVR
+ACESSOS > DVR/NVR > Configuração de DVR/NVR
+ACESSOS > DVR/NVR > Falha em DVR/NVR
+ACESSOS > DVR/NVR > Instalação de DVR/NVR
+ACESSOS > DVR/NVR > Realocação de DVR/NVR
+ACESSOS > DVR/NVR > Substituição de DVR/NVR
+ACESSOS > LEITOR DE BIOMETRIA
+ACESSOS > LEITOR DE BIOMETRIA > Configuração de Leitor de Biometria
+ACESSOS > LEITOR DE BIOMETRIA > Falha em Leitor de Biometria
+ACESSOS > LEITOR DE BIOMETRIA > Instalação de Leitor de Biometria
+ACESSOS > LEITOR DE BIOMETRIA > Realocação de Leitor de Biometria
+ACESSOS > LEITOR DE BIOMETRIA > Substituição de Leitor de Biometria
+ACESSOS > REP
+ACESSOS > REP > Configuração de REP
+ACESSOS > REP > Falha em REP
+ACESSOS > REP > Instalação de REP
+ACESSOS > REP > Realocação de REP
+ACESSOS > REP > Substituição de REP
+CIBERSEGURANCA
+CIBERSEGURANCA > ANTIVIRUS
+CIBERSEGURANCA > ANTIVIRUS > Ativação de Antivirus
+CIBERSEGURANCA > ANTIVIRUS > Atualização de Antivirus
+CIBERSEGURANCA > ANTIVIRUS > Configuração de Antivirus
+CIBERSEGURANCA > ANTIVIRUS > Instalação de Antivirus
+CIBERSEGURANCA > ANTIVIRUS > Remoção de Ameaça (Phishings, Ransomwares, Virus, Malwears, Worms...).
+CIBERSEGURANCA > FILTRO APP
+CIBERSEGURANCA > FILTRO APP > Bloqueio de Acesso a Aplicativo
+CIBERSEGURANCA > FILTRO APP > Liberação de Acesso a Aplicativo
+CIBERSEGURANCA > FILTRO WEB
+CIBERSEGURANCA > FILTRO WEB > Bloqueio de Acesso a Site
+CIBERSEGURANCA > FILTRO WEB > Liberação de Acesso a Site
+CIBERSEGURANCA > FIREWALL
+CIBERSEGURANCA > FIREWALL > Bloqueio de Acesso a IP
+CIBERSEGURANCA > FIREWALL > Bloqueio de Acesso a Porta
+CIBERSEGURANCA > FIREWALL > Bloqueio de Acesso a Serviço
+CIBERSEGURANCA > FIREWALL > Liberação de Acesso a IP
+CIBERSEGURANCA > FIREWALL > Liberação de Acesso a Porta
+CIBERSEGURANCA > FIREWALL > Libração de Acesso a Serviço
+CIBERSEGURANCA > VPN
+CIBERSEGURANCA > VPN > Alteração de Acesso a VPN
+CIBERSEGURANCA > VPN > Criação de Conta de Acesso a VPN
+CIBERSEGURANCA > VPN > Falha no Acesso a VPN
+CIBERSEGURANCA > VPN > Remoção de Conta de Acesso a VPN
+CIBERSEGURANCA > VPN > Bloqueio da Conta de Acesso a VPN
+INFRAESTRUTURA_TI
+INFRAESTRUTURA_TI > AUTENTICAÇÃO
+INFRAESTRUTURA_TI > AUTENTICAÇÃO > Alteração de Conta de Acesso a Rede
+INFRAESTRUTURA_TI > AUTENTICAÇÃO > Bloqueio de Conta de Acesso a Rede
+INFRAESTRUTURA_TI > AUTENTICAÇÃO > Criação de Conta de Acesso a Rede
+INFRAESTRUTURA_TI > AUTENTICAÇÃO > Desbloqueio de Conta de Acesso a Rede
+INFRAESTRUTURA_TI > AUTENTICAÇÃO > Falha em Conta de Acesso a Rede
+INFRAESTRUTURA_TI > BACKUP
+INFRAESTRUTURA_TI > BACKUP > Alteração de Cota de Armazenamento de Arquivos
+INFRAESTRUTURA_TI > BACKUP > Backup de Arquivos
+INFRAESTRUTURA_TI > BACKUP > Configuração de Backup de Arquivos
+INFRAESTRUTURA_TI > BACKUP > Falha em Backup/Restore de Aquivos
+INFRAESTRUTURA_TI > BACKUP > Restore de Arquivos
+INFRAESTRUTURA_TI > DHCP
+INFRAESTRUTURA_TI > DHCP > Criação de Reserva de IP
+INFRAESTRUTURA_TI > DHCP > Falha em Reserva DHCP
+INFRAESTRUTURA_TI > DHCP > Remoção de Reserva de IP
+INFRAESTRUTURA_TI > DNS
+INFRAESTRUTURA_TI > DNS > Criação de Registro DNS (A, AAA, CNAME, MX, TXT...)
+INFRAESTRUTURA_TI > DNS > Falha em Registro DNS (A, AAA, CNAME, MX, TXT...)
+INFRAESTRUTURA_TI > DNS > Remoção de Registro DNS (A, AAA, CNAME, MX, TXT...)
+INFRAESTRUTURA_TI > E-MAIL
+INFRAESTRUTURA_TI > E-MAIL > Alteração de Conta de E-mail
+INFRAESTRUTURA_TI > E-MAIL > Configuração de Conta de E-mail
+INFRAESTRUTURA_TI > E-MAIL > Criação de Conta de E-mail
+INFRAESTRUTURA_TI > E-MAIL > Falha em Conta de E-mail
+INFRAESTRUTURA_TI > E-MAIL > Remoção de Conta de E-mail
+INFRAESTRUTURA_TI > IMPRESSÃO
+INFRAESTRUTURA_TI > IMPRESSÃO > Criação de Pool de Impressão
+INFRAESTRUTURA_TI > IMPRESSÃO > Falha em Pool de Impressão
+INFRAESTRUTURA_TI > IMPRESSÃO > Remoção de Pool de Impressão
+INFRAESTRUTURA_TI > INVENTARIO
+INFRAESTRUTURA_TI > INVENTARIO > Adição de IC no Inventario de Ativos
+INFRAESTRUTURA_TI > INVENTARIO > Configuração de IC no Inventario de Ativos
+INFRAESTRUTURA_TI > INVENTARIO > Falha em Inventario de Ativos
+INFRAESTRUTURA_TI > INVENTARIO > Remoção de IC do Inventario de Ativos
+INFRAESTRUTURA_TI > INVENTARIO > Substituição de IC no Inventario de Ativos
+INFRAESTRUTURA_TI > LINK
+INFRAESTRUTURA_TI > LINK > Agregação de Link de Internet
+INFRAESTRUTURA_TI > LINK > Balanceamento de Carga de Link de Internet
+INFRAESTRUTURA_TI > LINK > Controle de Largura de Banda de Link Internet
+INFRAESTRUTURA_TI > LINK > Falha em Link de Internet
+INFRAESTRUTURA_TI > LINK > Segregação de Link Internet
+INFRAESTRUTURA_TI > PASTA
+INFRAESTRUTURA_TI > PASTA > Configuração de Acesso a Pasta Compartilhada
+INFRAESTRUTURA_TI > PASTA > Criação de Pasta Compartilhada
+INFRAESTRUTURA_TI > PASTA > Exclusão de Pasta Compartilhada
+INFRAESTRUTURA_TI > PASTA > Falha de Acesso a Pasta Compartilhada
+INFRAESTRUTURA_TI > PASTA > Mapeamento de Pasta Compartilhada
+INFRAESTRUTURA_TI > REDE CABEADA
+INFRAESTRUTURA_TI > REDE CABEADA > Ativação de Ponto de Rede Cabeada
+INFRAESTRUTURA_TI > REDE CABEADA > Desativação de Ponto de Rede Cabeada
+INFRAESTRUTURA_TI > REDE CABEADA > Falha em Ponto de Rede Cabeada
+INFRAESTRUTURA_TI > REDE CABEADA > Instalação de Ponto de Rede Cabeada
+INFRAESTRUTURA_TI > REDE CABEADA > Realocação de Ponto de Rede Cabeada
+INFRAESTRUTURA_TI > REDE TELEFÔNICA
+INFRAESTRUTURA_TI > REDE TELEFÔNICA > Ativação de Ponto de Rede Telefônica
+INFRAESTRUTURA_TI > REDE TELEFÔNICA > Configuração de Ramal Telefônico
+INFRAESTRUTURA_TI > REDE TELEFÔNICA > Desativação de Ponto de Rede Telefônica
+INFRAESTRUTURA_TI > REDE TELEFÔNICA > Fallha em Ponto de Rede Telefônica
+INFRAESTRUTURA_TI > REDE TELEFÔNICA > Realocação de Ponto de Rede Telefônica
+INFRAESTRUTURA_TI > REDE WIFI
+INFRAESTRUTURA_TI > REDE WIFI > Adição de Ponto de Acesso a Rede Wi-Fi
+INFRAESTRUTURA_TI > REDE WIFI > Configuração de Acesso da Rede Wi-Fi
+INFRAESTRUTURA_TI > REDE WIFI > Expansão de Cobertura de Rede Wi-Fi
+INFRAESTRUTURA_TI > REDE WIFI > Falha no Sinal da Rede Wi-Fi
+INFRAESTRUTURA_TI > REDE WIFI > Realocação de Ponto de Acesso a Rede Wi-Fi
+INFRAESTRUTURA_TI > ROTEADOR
+INFRAESTRUTURA_TI > ROTEADOR > Configuração de Roteador
+INFRAESTRUTURA_TI > ROTEADOR > Falha em Roteador
+INFRAESTRUTURA_TI > ROTEADOR > Instalação de Roteador
+INFRAESTRUTURA_TI > ROTEADOR > Realocação de Roteador
+INFRAESTRUTURA_TI > ROTEADOR > Remoção de Roteador
+INFRAESTRUTURA_TI > SERVIDOR
+INFRAESTRUTURA_TI > SERVIDOR > Configuração de Servidor de Rede
+INFRAESTRUTURA_TI > SERVIDOR > Falha em Servidor de Rede
+INFRAESTRUTURA_TI > SERVIDOR > Instalação de Servidor de Rede
+INFRAESTRUTURA_TI > SERVIDOR > Realocação de Servidor de Rede
+INFRAESTRUTURA_TI > SERVIDOR > Remoção de Servidor de Rede
+INFRAESTRUTURA_TI > SWITCH
+INFRAESTRUTURA_TI > SWITCH > Configuração de Switch
+INFRAESTRUTURA_TI > SWITCH > Falha em Switch
+INFRAESTRUTURA_TI > SWITCH > Instalação de Switch
+INFRAESTRUTURA_TI > SWITCH > Realocação de Switch
+INFRAESTRUTURA_TI > SWITCH > Remoção de Switch
+SISTEMAS
+SISTEMAS > CRM
+SISTEMAS > CRM > Alteração de Conta de Acesso a CRM
+SISTEMAS > CRM > Bloqueio de Conta de Acesso a CRM
+SISTEMAS > CRM > Criaçao de Conta de Acesso a CRM
+SISTEMAS > CRM > Falha em CRM
+SISTEMAS > CRM > Remoção de Conta de Acesso a CRM
+SISTEMAS > DESENVOLVIMENTO
+SISTEMAS > DESENVOLVIMENTO > Atualização de Sistema
+SISTEMAS > DESENVOLVIMENTO > Avaliação de Sistema
+SISTEMAS > DESENVOLVIMENTO > Customização de Sistema
+SISTEMAS > DESENVOLVIMENTO > Desenvolvimento de Sistema
+SISTEMAS > DESENVOLVIMENTO > Falha em Sistema
+SISTEMAS > DESENVOLVIMENTO > Implantação de Sistema
+SISTEMAS > DESENVOLVIMENTO > Integração com Sistema
+SISTEMAS > DESENVOLVIMENTO > Orietação para Uso de Sistema
+SISTEMAS > DESENVOLVIMENTO > Remoção de Sistema
+SISTEMAS > DESENVOLVIMENTO > Teste de Sistema
+SISTEMAS > DOCUMENTAÇÃO
+SISTEMAS > DOCUMENTAÇÃO > Caso de Uso
+SISTEMAS > DOCUMENTAÇÃO > Documento de Requisitos
+SISTEMAS > DOCUMENTAÇÃO > Manual
+SISTEMAS > DOCUMENTAÇÃO > Modelo de Dados
+SISTEMAS > DOCUMENTAÇÃO > Plano de Implantação
+SISTEMAS > DOCUMENTAÇÃO > Plano de Resultado de Testes
+SISTEMAS > DOCUMENTAÇÃO > Projeto de Informatização
+SISTEMAS > DOCUMENTAÇÃO > ProtOtipo de Interface
+SISTEMAS > DOCUMENTAÇÃO > Regras de Negocio
+SISTEMAS > DOCUMENTAÇÃO > Relatorio
+SISTEMAS > ERP
+SISTEMAS > ERP > Alteração de Conta de Acesso a ERP
+SISTEMAS > ERP > Bloqueio de Conta de Acesso a ERP
+SISTEMAS > ERP > Criaçao de Conta de Acesso a ERP
+SISTEMAS > ERP > Falha em ERP
+SISTEMAS > ERP > Remoção de Conta de Acesso a ERP
+SISTEMAS > SGBD
+SISTEMAS > SGBD > Administração de SGBD
+SISTEMAS > SGBD > Atualização de Banco de Dados (Atributo, Registro, Tabela...)
+SISTEMAS > SGBD > Backup de Banco de Dados
+SISTEMAS > SGBD > Criação de Banco de Dados
+SISTEMAS > SGBD > Criação de Tabela no Banco de Dados
+SISTEMAS > SGBD > Falha em Banco de Dados
+SISTEMAS > SGBD > Modelagem de Banco de Dados
+SISTEMAS > SGBD > Padronização de Banco de Dados (Mnemôniocos, Nomenclaturas...)
+SISTEMAS > SGBD > Restore de Banco de Dados
+SISTEMAS > SGBD > Script de Banco de Dados
+SUPORTE_TI
+SUPORTE_TI > 01.ACESSOS
+SUPORTE_TI > 01.ACESSOS > Redefinição de Senha de Acesso a Rede
+SUPORTE_TI > 01.ACESSOS > Redefinição de Senha de Acesso a CRM
+SUPORTE_TI > 01.ACESSOS > Redefinição de Senha de Acesso a E-mail
+SUPORTE_TI > 01.ACESSOS > Redefinição de Senha de Acesso a ERP
+SUPORTE_TI > 01.ACESSOS > Redefinição de Senha de Acesso a Sistema
+SUPORTE_TI > 02.DESKTOP
+SUPORTE_TI > 02.DESKTOP > Falha em Desktop (Gabinete, Monitor, Mouse, Teclado...)
+SUPORTE_TI > 02.DESKTOP > Instalação de Desktop
+SUPORTE_TI > 02.DESKTOP > Realocação de Desktop
+SUPORTE_TI > 02.DESKTOP > Solicitação de Desktop
+SUPORTE_TI > 02.DESKTOP > Substituição de Desktop
+SUPORTE_TI > 02.IMPRESSORA
+SUPORTE_TI > 02.IMPRESSORA > Falha em Impressora
+SUPORTE_TI > 02.IMPRESSORA > Instalação de Impressora
+SUPORTE_TI > 02.IMPRESSORA > Realocação de Impressora
+SUPORTE_TI > 02.IMPRESSORA > Solicitação de Impressora
+SUPORTE_TI > 02.IMPRESSORA > Substituição de Impressora
+SUPORTE_TI > 02.NOTEBOOK
+SUPORTE_TI > 02.NOTEBOOK > Falha em Notebook (Gabinete, Monitor, Teclado, Touchpad...)
+SUPORTE_TI > 02.NOTEBOOK > Solicitação de Notebook
+SUPORTE_TI > 02.NOTEBOOK > Substituição de Notebook
+SUPORTE_TI > 02.PROJETOR
+SUPORTE_TI > 02.PROJETOR > Desinstalação de Projetor
+SUPORTE_TI > 02.PROJETOR > Falha em Projetor
+SUPORTE_TI > 02.PROJETOR > Instalação de Projetor
+SUPORTE_TI > 02.TABLET
+SUPORTE_TI > 02.TABLET > Falha em Tablet
+SUPORTE_TI > 03.INSUMOS
+SUPORTE_TI > 03.INSUMOS > Substituição de Cartucho de Tinta
+SUPORTE_TI > 03.INSUMOS > Substituição de Fotocondutor
+SUPORTE_TI > 03.INSUMOS > Substituição de Tonner
+SUPORTE_TI > 04.OUTROS
+SUPORTE_TI > 04.OUTROS > Outras Falhas em TI
+SUPORTE_TI > 04.OUTROS > Outras Solicitações de TI
+SUPORTE_TI > 05.APLICATIVO
+SUPORTE_TI > 05.APLICATIVO > Atualização de Aplicativo
+SUPORTE_TI > 05.APLICATIVO > Configuração de Aplicativo
+SUPORTE_TI > 05.APLICATIVO > Desinstalação de Aplicativo
+SUPORTE_TI > 05.APLICATIVO > Falha em Aplicativo
+SUPORTE_TI > 05.APLICATIVO > Instalação de Aplicativo
+SUPORTE_TI > 05.DRIVER
+SUPORTE_TI > 05.DRIVER > Atualização de Drive
+SUPORTE_TI > 05.DRIVER > Configuração de Drive
+SUPORTE_TI > 05.DRIVER > Desinstalação de Drive
+SUPORTE_TI > 05.DRIVER > Falha em Drive
+SUPORTE_TI > 05.DRIVER > Instalação de Drive
+SUPORTE_TI > 05.NAVEGADOR INTERNET
+SUPORTE_TI > 05.NAVEGADOR INTERNET > Atualização do Navegor Internet
+SUPORTE_TI > 05.NAVEGADOR INTERNET > Configuração de Navegor Internet
+SUPORTE_TI > 05.NAVEGADOR INTERNET > Desinstalação de Navegor Internetriver
+SUPORTE_TI > 05.NAVEGADOR INTERNET > Falha em Navegor Internet
+SUPORTE_TI > 05.NAVEGADOR INTERNET > Instalação de Navegor Internet
+SUPORTE_TI > 05.PACOTE OFFICE
+SUPORTE_TI > 05.PACOTE OFFICE > Atualização de Pacote Office
+SUPORTE_TI > 05.PACOTE OFFICE > Configuração de Pacote Office
+SUPORTE_TI > 05.PACOTE OFFICE > Desinstalação de Pacote Office
+SUPORTE_TI > 05.PACOTE OFFICE > Falha em Pacote Office
+SUPORTE_TI > 05.PACOTE OFFICE > Instalação de Pacote Office
+SUPORTE_TI > 05.SISTEMA OPERACIONAL
+SUPORTE_TI > 05.SISTEMA OPERACIONAL > Ativação de Sistema Operacional
+SUPORTE_TI > 05.SISTEMA OPERACIONAL > Atualização de Sistema Operacional
+SUPORTE_TI > 05.SISTEMA OPERACIONAL > Configuração de Sistema Operacional
+SUPORTE_TI > 05.SISTEMA OPERACIONAL > Falha em Sistema Operacional
+SUPORTE_TI > 05.SISTEMA OPERACIONAL > Instalação de Sistema Operacional
