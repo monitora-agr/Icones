@@ -1,0 +1,21 @@
+---
+manufacturer: Juniper
+model: EX4600-EM-8F
+part_number: EX4600-EM-8F
+interfaces:
+  - name: xe-0/{module}/0
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/1
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/2
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/3
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/4
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/5
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/6
+    type: 10gbase-x-sfpp
+  - name: xe-0/{module}/7
+    type: 10gbase-x-sfpp
